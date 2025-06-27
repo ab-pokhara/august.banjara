@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
-url: ""
+baseurl: "abanjara.com.np"
+url: "www.anojbanjara.com.np"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
